@@ -40,45 +40,49 @@
             "filename": "co_buh_clovek_001.md",
             "xhtml": "co_buh_clovek_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "co_buh_clovek_002.md",
             "xhtml": "co_buh_clovek_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "co_buh_clovek_003.md",
             "xhtml": "co_buh_clovek_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "co_buh_clovek_004.md",
             "xhtml": "co_buh_clovek_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "co_buh_clovek_005.md",
@@ -89,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "PATER E COELIS..."
           },
           {
             "filename": "co_buh_clovek_006.md",
@@ -100,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "CO BŮH? ČLOVĚK?"
           },
           {
             "filename": "co_buh_clovek_007.md",
@@ -111,18 +119,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Co jest Bůh?"
           },
           {
             "filename": "co_buh_clovek_008.md",
             "xhtml": "co_buh_clovek_008.xhtml",
             "id": 7,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -247,6 +258,6 @@
       "user": "books-are-next",
       "repo": "co-buh-clovek"
     },
-    "generatedAt": 1649409880028
+    "generatedAt": 1649410269591
   }
 }

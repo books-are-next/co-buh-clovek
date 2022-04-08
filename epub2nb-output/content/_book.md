@@ -14,17 +14,23 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - co_buh_clovek_001.html
   - co_buh_clovek_002.html
-  - co_buh_clovek_003.html
-  - co_buh_clovek_004.html
   - co_buh_clovek_005.html
   - co_buh_clovek_006.html
   - co_buh_clovek_007.html
-  - co_buh_clovek_008.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: co_buh_clovek_005.html
+        title: PATER E COELIS...
+        hiddenTitle: true
+      - link: co_buh_clovek_006.html
+        title: CO BŮH? ČLOVĚK?
+        hiddenTitle: true
+      - link: co_buh_clovek_007.html
+        title: Co jest Bůh?
+        hiddenTitle: true
     isSection: true
     listType: plain
 static:

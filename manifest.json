@@ -2,38 +2,18 @@
   "author": "Bedřich Bridel",
   "contenttype": "poetry",
   "edition": "beletrie",
-  "identifier": "bridel-co-buh-clovek-8e3005e",
+  "identifier": "bridel-co-buh-clovek-6c9ab85",
   "languagecode": "cs",
   "modified": "2021-11-08T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Co Bůh? Člověk?",
-  "revision": "8e3005e",
+  "revision": "6c9ab85",
   "generatedAt": {
-    "date": "Fri Apr 08 2022 09:25:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649409931338
+    "date": "Fri Apr 08 2022 09:32:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649410327954
   },
   "documents": [
-    {
-      "title": "Co Bůh? Člověk?",
-      "file": "co_buh_clovek_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "co_buh_clovek_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Co Bůh? Člověk?",
       "file": "co_buh_clovek_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "co_buh_clovek_001.html",
-      "next": "co_buh_clovek_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Co Bůh? Člověk?",
-      "file": "co_buh_clovek_003.html",
-      "words": 5,
-      "chars": 29,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "co_buh_clovek_002.html",
-      "next": "co_buh_clovek_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Co Bůh? Člověk?",
-      "file": "co_buh_clovek_004.html",
-      "words": 83,
-      "chars": 549,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "co_buh_clovek_003.html",
+      "order": 0,
+      "prev": null,
       "next": "co_buh_clovek_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 33,
       "ideas": 2,
       "role": "chapter",
-      "order": 4,
-      "prev": "co_buh_clovek_004.html",
+      "order": 1,
+      "prev": "co_buh_clovek_002.html",
       "next": "co_buh_clovek_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 235,
       "ideas": 18,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "co_buh_clovek_005.html",
       "next": "co_buh_clovek_007.html",
       "toc": [
@@ -141,9 +81,9 @@
       "chars": 13235,
       "ideas": 562,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "co_buh_clovek_006.html",
-      "next": "co_buh_clovek_008.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -155,20 +95,20 @@
       ]
     },
     {
-      "title": "Co Bůh? Člověk?",
-      "file": "co_buh_clovek_008.html",
-      "words": 46,
-      "chars": 312,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 7,
+      "title": "Tiráž • Co Bůh? Člověk?",
+      "file": "colophon.html",
+      "words": 135,
+      "chars": 895,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "co_buh_clovek_007.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -182,9 +122,9 @@
       "ideas": 608
     },
     "chapters": {
-      "words": 2510,
-      "chars": 14393,
-      "ideas": 603
+      "words": 2376,
+      "chars": 13503,
+      "ideas": 582
     }
   }
 }
