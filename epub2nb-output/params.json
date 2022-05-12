@@ -52,7 +52,7 @@
             "filename": "co_buh_clovek_002.md",
             "xhtml": "co_buh_clovek_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -258,6 +258,6 @@
       "user": "books-are-next",
       "repo": "co-buh-clovek"
     },
-    "generatedAt": 1649410269591
+    "generatedAt": 1652351586295
   }
 }

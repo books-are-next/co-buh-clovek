@@ -2,12 +2,15 @@
 title: Tiráž
 ---
 
-***
-
-Co Bůh? Člověk?
-
-Bedřich Bridel
-
+**Bedřich Bridel    
+Co Bůh? Člověk?**  
+Edice Poezie  
+Ilustrace na obálce abeadev/Shutterstock.com  
+Redakce Jaroslava Bednářová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 2. elektronické vydání  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -21,54 +24,7 @@ Text díla (Bedřich Bridel: Co Bůh? Člověk?), publikovaného [Městskou kni
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-Verze 1.0 z 12. 11. 2021.
 
   
 
 ![](../Images/image004.jpg)
-
-
-***
-
-**Bedřich Bridel  
-Co Bůh? Člověk?**
-
-  
-
-Edice Poezie
-
-  
-
-Ilustrace na obálce abeadev/Shutterstock.com
-
-  
-
-Redakce Jaroslava Bednářová
-
-  
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 2. elektronické vydání
-
-  
-
-Verze 1.0 z 12. 11. 2021
-
-  
-
-ISBN 978-80-274-2004-9 (epub)
-
-  
-
-ISBN 978-80-274-2005-6 (pdf)
-
-  
-
-ISBN 978-80-274-2006-3 (prc)
