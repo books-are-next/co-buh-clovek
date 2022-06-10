@@ -1,8 +1,12 @@
 ---
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > PATER E COELIS DEVS
 
 > MISERERE NOBIS
+
+</section>

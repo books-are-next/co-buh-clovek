@@ -1,7 +1,9 @@
 ---
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 Co jest Bůh?  
 Duše odpočinutí.
@@ -635,3 +637,5 @@ Duše odpočinutí.
 > k nohám trůnu jeho padám,  
 > zeměplazý červíček  
 > cosi v temnostech předkládám!
+
+</section>
