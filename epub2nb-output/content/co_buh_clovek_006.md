@@ -1,7 +1,9 @@
 ---
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 _CO BŮH?  
           ČLOVĚK?  
@@ -13,7 +15,9 @@ Tys sláva, čest:
 Já hnis, vřed, puch:  
 Tys čistý duch:_
 
-  
+</section>
+
+<section>
 
 _Tak jak mohu,  
 o mém Bohu  
@@ -24,3 +28,5 @@ chvály skládám,
 jak i první,  
 tak v poslední  
 okamžení._
+
+</section>
