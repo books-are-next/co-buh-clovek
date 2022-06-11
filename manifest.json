@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bridel-co-buh-clovek-b8f635b",
-  "revision": "b8f635b",
+  "identifier": "bridel-co-buh-clovek-fe0bfd8",
+  "revision": "fe0bfd8",
   "readingOrder": [
     "promo.html",
     "co_buh_clovek_005.html",
@@ -18,8 +18,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:48:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883304663
+    "date": "Sat Jun 11 2022 11:53:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948392715
   },
   "documents": [
     {
