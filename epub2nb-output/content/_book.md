@@ -18,7 +18,7 @@ readingOrder:
   - co_buh_clovek_005.html
   - co_buh_clovek_006.html
   - co_buh_clovek_007.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

@@ -8,18 +8,18 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bridel-co-buh-clovek-9f13563",
-  "revision": "9f13563",
+  "identifier": "bridel-co-buh-clovek-d796d0d",
+  "revision": "d796d0d",
   "readingOrder": [
     "promo.html",
     "co_buh_clovek_005.html",
     "co_buh_clovek_006.html",
     "co_buh_clovek_007.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:58:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978304789
+    "date": "Thu Jul 07 2022 08:19:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181953043
   },
   "documents": [
     {
@@ -83,7 +83,7 @@
       "role": "chapter",
       "order": 3,
       "prev": "co_buh_clovek_006.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -96,11 +96,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 126,
-      "chars": 817,
+      "chars": 816,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "co_buh_clovek_007.html",
       "next": null,
@@ -118,7 +118,7 @@
   "totals": {
     "all": {
       "words": 2509,
-      "chars": 14360,
+      "chars": 14359,
       "ideas": 602
     },
     "chapters": {

@@ -64,7 +64,7 @@
             "filename": "co_buh_clovek_003.md",
             "xhtml": "co_buh_clovek_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "co_buh_clovek_004.md",
             "xhtml": "co_buh_clovek_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -127,7 +127,7 @@
             "filename": "co_buh_clovek_008.md",
             "xhtml": "co_buh_clovek_008.xhtml",
             "id": 7,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -258,6 +258,6 @@
       "user": "books-are-next",
       "repo": "co-buh-clovek"
     },
-    "generatedAt": 1655978147271
+    "generatedAt": 1657181726259
   }
 }
