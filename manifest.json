@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bridel-co-buh-clovek-fdb789b",
-  "revision": "fdb789b",
+  "identifier": "bridel-co-buh-clovek-b1b9684",
+  "revision": "b1b9684",
   "readingOrder": [
     "promo.html",
     "co_buh_clovek_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:00:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151243636
+    "date": "Mon Oct 10 2022 15:52:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417174588
   },
   "documents": [
     {
@@ -98,7 +98,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 123,
-      "chars": 817,
+      "chars": 818,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -118,7 +118,7 @@
   "totals": {
     "all": {
       "words": 2506,
-      "chars": 14360,
+      "chars": 14361,
       "ideas": 599
     },
     "chapters": {
